@@ -1,7 +1,7 @@
 # e-learning-material
 
 ### Git
-(https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents)[Git Big Picture]
+[Git Big Picture](https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents)
 
 ### HTML & CSS
 
